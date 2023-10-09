@@ -13,7 +13,7 @@ function Panel(){
         { /* tu jakieś logo można wstawić */ }
 
         { /* zakladka w panelu 1 */ }
-        <Zakladka active Ikonka={HomeIcon} tekst="Główna" />
+        <Zakladka Ikonka={HomeIcon} tekst="Główna" />
 
         { /* zakladka w panelu 2 */ }
         <Zakladka Ikonka={MailOutlineIcon} tekst="Wiadomości" />
@@ -22,7 +22,7 @@ function Panel(){
         <Zakladka Ikonka={PersonIcon} tekst="Profil" />
 
         { /* Przycisk - dodaj wpis */ }
-        <Button variant="outlined" className="przyciskWpis" fullWidth>Opublikuj wpis</Button>
+        <Button variant="outlined" className="przyciskWpis" fullWidth>Testowy przycisk</Button>
 
         </div>
     );

@@ -8,7 +8,7 @@ function Srodek(){
 
         {/* naglowek */}
         <div className="srodek-naglowek">
-            <h2>Część od wpisów</h2>
+            <h2>Sekcja wpisów</h2>
         </div>
         {/* miejsce do tweetowania */}
 

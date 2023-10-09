@@ -15,8 +15,8 @@
 }
 
 .panelZakladki:hover{
-    background-color: rgb(25, 125, 0);
+    background-color: rgb(249, 176, 19);
     border-radius: 30px;
     transition: color 100ms ease-out;
-    color: lime;
+    color: rgb(255, 255, 255);
 }

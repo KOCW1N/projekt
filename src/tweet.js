@@ -11,7 +11,7 @@ function Tweet(){
                 <Avatar alt="Remy Sharp" src="/static/images/avatar/1.jpg" />
                 <input placeholder="Co słychać?" type="text"/>
             </div>
-            <Button className="tweet_przycisk">Wyślij</Button>
+            <Button className="tweet_przycisk">Opublikuj</Button>
         </form>
 
         </div>

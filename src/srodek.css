@@ -1,5 +1,5 @@
 .srodek {
-    flex: 0.4;
+    flex: 0.6;
     border-right: 1px solid gray;
     overflow-y: scroll;
     min-width: fit-content;
@@ -21,7 +21,6 @@
 }
 
 /* wyłączenie widoku scrollowania */
-
 .srodek::-webkit-scrollbar {
     display: none
 }

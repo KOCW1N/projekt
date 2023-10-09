@@ -1,13 +1,13 @@
 .panel {
     border-right: 1px solid gray;
-    flex: 0.3;
+    flex: 0.2;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 45px;
 }
 
 .przyciskWpis {
-    background-color: rgb(25, 125, 0) !important;
+    background-color: rgb(249, 176, 19) !important;
     color: white !important;
     border: none !important;
     font-weight: 900 !important;
